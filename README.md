@@ -3,7 +3,7 @@
 # Shahriar Sami
 ### Future-Ready Developer | SAMI.DEV
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=CSE+Student+@+AIUB;Java+Specialist+%26+Problem+Solver;4.00+CGPA+Holder;Architecting+Efficient+Software;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=CSE+Student+@+AIUB;Java+Specialist+%26+Problem+Solver;Architecting+Clean+%26+Scalable+Code;Building+Systems+That+Matter)](https://git.io/typing-svg)
 
 [![Open for Research Collab](https://img.shields.io/badge/_OPEN_FOR_RESEARCH_COLLAB-00FF88?style=for-the-badge&logo=github&logoColor=white)](#)
 [![B.SC CSE AIUB](https://img.shields.io/badge/B.SC_CSE_AIUB-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
@@ -24,7 +24,7 @@
 
 **Driven by Innovation, Powered by Code.**
 
-I am a first-year Computer Science Engineering student at AIUB with a perfect 4.00 CGPA. My journey is defined by a relentless curiosity for how things work under the hood. From low-level Java logic to high-level web architecture, I aim to build systems that matter.
+I am a first-year Computer Science Engineering student at AIUB. My journey is defined by a relentless curiosity for how things work under the hood. From low-level Java logic to high-level web architecture, I aim to build systems that matter.
 
 `Java Specialist` | `Problem Solver` | `Gamer`
 
