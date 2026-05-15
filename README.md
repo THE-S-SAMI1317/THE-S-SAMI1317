@@ -27,12 +27,12 @@
 # Shahriar Sami
 ### `Future-Ready Developer` | `SAMI.DEV`
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=CSE+Student+@+AIUB;4.00+CGPA+%F0%9F%8E%93;Java+Specialist+%26+Problem+Solver;Architecting+Clean+%26+Scalable+Code;Building+Systems+That+Matter)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=CSE+Student+@+AIUB;Java+Specialist+%26+Problem+Solver;Architecting+Clean+%26+Scalable+Code;Building+Systems+That+Matter)](https://git.io/typing-svg)
 
 <!-- 🔹 STATUS BADGES -->
 [![Open for Research](https://img.shields.io/badge/_OPEN_FOR_RESEARCH-00FF88?style=for-the-badge&logo=github&logoColor=white)](#)
 [![B.Sc CSE @ AIUB](https://img.shields.io/badge/B.Sc_CSE_@_AIUB-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
-[![ Dhaka, BD](https://img.shields.io/badge/Location-Dhaka_BD-EC4899?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![📍 Dhaka, BD](https://img.shields.io/badge/📍_Dhaka_BD-EC4899?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 [![⚡ Level 1 Dev](https://img.shields.io/badge/Experience-Level_1-06B6D4?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 <br>
@@ -49,8 +49,7 @@
       <h3 style="margin:0; color:#FFFFFF;">Shahriar Sami &lt;Developer /&gt;</h3>
       <p style="margin:8px 0 0; color:#8B8B8B; font-size:15px; line-height:1.6;">
         🎓 Student ID: <code style="background:#1A1A2E; padding:2px 6px; border-radius:4px; color:#EC4899;">25-63748-3</code><br>
-         Base: <code style="background:#1A1A2E; padding:2px 6px; border-radius:4px; color:#06B6D4;">Dhaka, BD</code><br>
-        📊 CGPA: <code style="background:#1A1A2E; padding:2px 6px; border-radius:4px; color:#00FF88;">4.00 / 4.00</code>
+         Base: <code style="background:#1A1A2E; padding:2px 6px; border-radius:4px; color:#06B6D4;">Dhaka, BD</code>
       </p>
       <br>
       <a href="#projects" style="background:linear-gradient(90deg,#8B5CF6,#EC4899); color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:14px;">🚀 Explore Works</a>
@@ -81,7 +80,7 @@
 <br>
 
 <!-- 🔹 EDUCATION TIMELINE -->
-<h3 style="color:#8B5CF6; border-bottom:2px solid #21262D; padding-bottom:8px;"> Academic Database</h3>
+<h3 style="color:#8B5CF6; border-bottom:2px solid #21262D; padding-bottom:8px;">🎓 Academic Database</h3>
 
 <table align="center" border="0" cellpadding="8" cellspacing="0" width="85%">
   <tr>
@@ -90,7 +89,6 @@
       <strong style="color:#FFFFFF;">B.Sc. in Computer Science Engineering</strong><br>
       <span style="color:#C9D1D9; font-size:14px;">American International University - Bangladesh (AIUB)</span><br>
       <a href="https://www.aiub.edu/" style="color:#06B6D4; font-size:13px; text-decoration:none;">🔗 AIUB Official</a>
-      <br><span style="background:#0A0F1C; padding:4px 8px; border-radius:4px; color:#00FF88; font-size:12px; font-weight:bold;">CGPA: 4.00 / 4.00</span>
     </td>
   </tr>
   <tr><td colspan="2" style="height:12px;"></td></tr>
@@ -99,7 +97,6 @@
     <td style="border-left:3px solid #EC4899; padding-left:12px;">
       <strong style="color:#FFFFFF;">Higher Secondary Certificate (Science)</strong><br>
       <span style="color:#C9D1D9; font-size:14px;">Jhenaidah KC College</span>
-      <br><span style="background:#0A0F1C; padding:4px 8px; border-radius:4px; color:#00FF88; font-size:12px; font-weight:bold;">GPA: 5.00 / 5.00</span>
     </td>
   </tr>
   <tr><td colspan="2" style="height:12px;"></td></tr>
@@ -109,7 +106,6 @@
       <strong style="color:#FFFFFF;">Secondary School Certificate (Science)</strong><br>
       <span style="color:#C9D1D9; font-size:14px;">Jhenaidha Govt. High School</span>
       <br><a href="http://www.jhenidahghs.edu.bd/" style="color:#06B6D4; font-size:13px; text-decoration:none;">🔗 JGHS Official</a>
-      <br><span style="background:#0A0F1C; padding:4px 8px; border-radius:4px; color:#FFD700; font-size:12px; font-weight:bold;">GPA: 5.00 / 5.00 (Golden)</span>
     </td>
   </tr>
 </table>
@@ -138,16 +134,9 @@
 <table align="center" border="0" cellpadding="12" cellspacing="0" width="90%">
   <tr>
     <td style="background:#161B22; border-radius:12px; border:1px solid #30363D; padding:16px;">
-      <h4 style="margin:0 0 8px; color:#FFFFFF;"> Healthcare Center</h4>
-      <p style="margin:0 0 10px; color:#C9D1D9; font-size:14px; line-height:1.5;">Desktop application digitizing hospital operations: patient management, blood bank inventory & scheduling.</p>
-      <div style="margin-bottom:10px;">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swing-000000?style=flat&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
-      </div>
-      <a href="https://github.com/THE-S-SAMI1317" style="background:#8B5CF6; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">🔍 View Source</a>
-      <a href="#" style="background:#EC4899; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold; margin-left:8px;">📖 Case Study</a>
-      <br><br><span style="background:#1A1A2E; padding:4px 8px; border-radius:4px; color:#FFD700; font-size:12px;">⚠️ Work in Progress</span>
+      <h4 style="margin:0 0 8px; color:#FFFFFF;">🚀 Work in Progress</h4>
+      <p style="margin:0 0 10px; color:#C9D1D9; font-size:14px; line-height:1.5;">Something exciting is brewing in the lab. Check back soon for new deployments!</p>
+      <span style="background:#1A1A2E; padding:4px 8px; border-radius:4px; color:#FFD700; font-size:12px;">⚡ Coming Soon</span>
     </td>
   </tr>
 </table>
