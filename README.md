@@ -1,161 +1,139 @@
-<div align="center">
+# Shahriar - Future-Ready Developer
+## SAMI.DEV
 
-<!-- 🔹 SIMPLE SAMI HEADER (No CSS) -->
-<h1 style="font-size: 72px; font-weight: bold; color: #fff; letter-spacing: 8px; text-shadow: 2px 2px #8B5CF6, -2px -2px #EC4899;">
-  SAMI
-</h1>
+[Home](#home) | [About](#about) | [Works](#works) | [Let's Talk](#contact)
 
-<br>
+[Home](#home) | [About](#about) | [Works](#works) | [Contact Me](#contact)
 
-<!-- 🔹 HEADER & TYPING ANIMATION -->
-# Shahriar Sami
-### `Future-Ready Developer` | `SAMI.DEV`
+---
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=CSE+Student+@+AIUB;Java+Specialist+%26+Problem+Solver;Architecting+Clean+%26+Scalable+Code;Building+Systems+That+Matter)](https://git.io/typing-svg)
+> System Online
 
-<!-- 🔹 STATUS BADGES -->
-[![Open for Research](https://img.shields.io/badge/_OPEN_FOR_RESEARCH-00FF88?style=for-the-badge&logo=github&logoColor=white)](#)
-[![B.Sc CSE @ AIUB](https://img.shields.io/badge/B.Sc_CSE_@_AIUB-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
-[![📍 Dhaka, BD](https://img.shields.io/badge/📍_Dhaka_BD-EC4899?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-[![⚡ Level 1 Dev](https://img.shields.io/badge/Experience-Level_1-06B6D4?style=for-the-badge&logo=rocket&logoColor=white)](#)
+### Shahriar Sami
 
-<br>
+> CSE Student @ AIUB. Architecting efficient software solutions with a focus on clean code and scalable design.
 
-<!-- 🔹 PROFILE CARD -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="80%">
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://avatars.githubusercontent.com/u/153972636?s=400&u=f3213e855e19a82ac8cd4d1310d4123f21382879&v=4" width="180" height="180" style="border-radius:50%; border:4px solid #8B5CF6; box-shadow:0 0 20px rgba(139,92,246,0.4);"/>
-      <br><br>
-      <span style="font-size:14px; color:#00FF88; font-weight:bold;">● SYSTEM ONLINE</span>
-    </td>
-    <td align="left" style="padding-left:30px;">
-      <h3 style="margin:0; color:#FFFFFF;">Shahriar Sami &lt;Developer /&gt;</h3>
-      <p style="margin:8px 0 0; color:#8B8B8B; font-size:15px; line-height:1.6;">
-        🎓 Student ID: <code style="background:#1A1A2E; padding:2px 6px; border-radius:4px; color:#EC4899;">25-63748-3</code><br>
-         Base: <code style="background:#1A1A2E; padding:2px 6px; border-radius:4px; color:#06B6D4;">Dhaka, BD</code>
-      </p>
-      <br>
-      <a href="#projects" style="background:linear-gradient(90deg,#8B5CF6,#EC4899); color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:14px;">🚀 Explore Works</a>
-    </td>
-  </tr>
-</table>
+[Explore Works](#works)
 
-<br>
+![Shahriar Sami Avatar](https://avatars.githubusercontent.com/u/153972636?s=400&u=f3213e855e19a82ac8cd4d1310d4123f21382879&v=4)
 
-<!-- 🔹 GITHUB STATS & ACTIVITY -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THE-S-SAMI1317&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-S-SAMI1317&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" width="48%" />
-</p>
+**ONLINE**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THE-S-SAMI1317&theme=react-dark&hide_border=true&color=8B5CF6&line=EC4899&point=06B6D4&area=true" width="90%" />
-</p>
+**Shahriar Sami** `<Developer />`
 
-<br>
+| ID | LOC | EXP |
+|----|-----|-----|
+| 25-63748-3 | Dhaka, BD | Level 1 |
 
-<!-- 🔹 ABOUT / INTRO -->
-<blockquote style="border-left:4px solid #8B5CF6; padding:12px 16px; background:#161B22; border-radius:8px; margin:0 10%;">
-  <strong style="color:#EC4899;"> Driven by Innovation, Powered by Code.</strong><br>
-  <span style="color:#C9D1D9; font-size:15px;">First-year CSE student @ AIUB with a relentless curiosity for system architecture. From low-level Java logic to high-level web design, I build clean, scalable, and meaningful software.</span>
-</blockquote>
+---
 
-<br>
+## Decoding The Dev
 
-<!-- 🔹 EDUCATION TIMELINE -->
-<h3 style="color:#8B5CF6; border-bottom:2px solid #21262D; padding-bottom:8px;">🎓 Academic Database</h3>
+### 1. INTRODUCTION
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" width="85%">
-  <tr>
-    <td width="25%" align="right" style="color:#8B8B8B; font-size:14px;">2024 – Present</td>
-    <td style="border-left:3px solid #8B5CF6; padding-left:12px;">
-      <strong style="color:#FFFFFF;">B.Sc. in Computer Science Engineering</strong><br>
-      <span style="color:#C9D1D9; font-size:14px;">American International University - Bangladesh (AIUB)</span><br>
-      <a href="https://www.aiub.edu/" style="color:#06B6D4; font-size:13px; text-decoration:none;">🔗 AIUB Official</a>
-    </td>
-  </tr>
-  <tr><td colspan="2" style="height:12px;"></td></tr>
-  <tr>
-    <td width="25%" align="right" style="color:#8B8B8B; font-size:14px;">2022 – 2024</td>
-    <td style="border-left:3px solid #EC4899; padding-left:12px;">
-      <strong style="color:#FFFFFF;">Higher Secondary Certificate (Science)</strong><br>
-      <span style="color:#C9D1D9; font-size:14px;">Jhenaidah KC College</span>
-    </td>
-  </tr>
-  <tr><td colspan="2" style="height:12px;"></td></tr>
-  <tr>
-    <td width="25%" align="right" style="color:#8B8B8B; font-size:14px;">2021 – 2022</td>
-    <td style="border-left:3px solid #06B6D4; padding-left:12px;">
-      <strong style="color:#FFFFFF;">Secondary School Certificate (Science)</strong><br>
-      <span style="color:#C9D1D9; font-size:14px;">Jhenaidha Govt. High School</span>
-      <br><a href="http://www.jhenidahghs.edu.bd/" style="color:#06B6D4; font-size:13px; text-decoration:none;">🔗 JGHS Official</a>
-    </td>
-  </tr>
-</table>
+**Driven by Innovation, Powered by Code.**
 
-<br>
+I am a first-year Computer Science Engineering student at AIUB with a perfect 4.00 CGPA. My journey is defined by a relentless curiosity for how things work under the hood. From low-level Java logic to high-level web architecture, I aim to build systems that matter.
 
-<!-- 🔹 TECH ARSENAL -->
-<h3 style="color:#8B5CF6; border-bottom:2px solid #21262D; padding-bottom:8px;">🛠️ Tech Arsenal</h3>
+`Java Specialist` | `Problem Solver` | `Gamer`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=0D1117" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=0D1117" />
-</p>
+- **4.00** Current CGPA
+- ![Location](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvqzn5ASPrIyuxcGJYva-IhP1EHrsas_5Yx6ZecgwpMrsHBth1mjopFiZn4vvFmt407m-&s) Dhaka, BD | Base of Operations
 
-<br>
+---
 
-<!-- 🔹 PROJECTS -->
-<h3 id="projects" style="color:#8B5CF6; border-bottom:2px solid #21262D; padding-bottom:8px;">💼 Featured Projects</h3>
+### 2. ACADEMIC DATABASE
 
-<table align="center" border="0" cellpadding="12" cellspacing="0" width="90%">
-  <tr>
-    <td style="background:#161B22; border-radius:12px; border:1px solid #30363D; padding:16px;">
-      <h4 style="margin:0 0 8px; color:#FFFFFF;">🚀 Work in Progress</h4>
-      <p style="margin:0 0 10px; color:#C9D1D9; font-size:14px; line-height:1.5;">Something exciting is brewing in the lab. Check back soon for new deployments!</p>
-      <span style="background:#1A1A2E; padding:4px 8px; border-radius:4px; color:#FFD700; font-size:12px;">⚡ Coming Soon</span>
-    </td>
-  </tr>
-</table>
+**2024 - Present**  
+B.Sc. in Computer Science Engineering  
+American International University - Bangladesh (AIUB)  
+[AIUB](https://www.aiub.edu/)  
+![AIUB Logo](https://drive.google.com/thumbnail?id=13pGUL9xn3CG-Bi-xY06GB8cE4BLcdnpo&sz=w1000)  
+**CGPA 4.00 / 4.00**
 
-<br>
+**2022 - 2024**  
+Higher Secondary Certificate (Science)  
+Jhenaidah KC College  
+**GPA 5.00 / 5.00**
 
-<!-- 🔹 CONTACT & SOCIALS -->
-<h3 style="color:#8B5CF6; border-bottom:2px solid #21262D; padding-bottom:8px;">📡 Initiate Connection</h3>
+**2021 - 2022**  
+Secondary School Certificate (Science)  
+Jhenaidha Govt. High School  
+[JGHS](http://www.jhenidahghs.edu.bd/)  
+![JGHS](data:image/jpeg;base64,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)  
+**GPA 5.00 / 5.00 (Golden)**
 
-<p align="center" style="color:#C9D1D9; font-size:15px;">
-  Ready to build something impactful? Let's sync up.
-</p>
+---
 
-<p align="center">
-  <a href="mailto:shahriar.sami@mail.com" style="background:linear-gradient(90deg,#8B5CF6,#EC4899); color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:14px;">📧 shahriar.sami@mail.com</a>
-</p>
+### 3. TECH ARSENAL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Response_Time-⚡_Within_2_Hours-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Server_Time-🕐_Dhaka_(GMT+6)-06B6D4?style=for-the-badge" />
-</p>
+| Java | Python | JS | HTML | CSS | C | SQL | Git |
+|------|--------|----|------|-----|---|-----|-----|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
-<p align="center" style="margin-top:12px;">
-  <a href="https://github.com/THE-S-SAMI1317"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+---
 
-<br>
+### 4. HOBBIES & INTERESTS
 
-<!--  FOOTER -->
-<p align="center" style="color:#8B8B8B; font-size:13px; border-top:1px solid #21262D; padding-top:16px;">
-  <em>Driven by Innovation, Powered by Code.</em><br>
-  © 2025 Shahriar Sami. All Rights Reserved.
-</p>
+`Travelling` | `Gaming` | `Drawing` | `Photography`
 
-</div>
+---
+
+## PROJECTS
+
+### Selected Works
+
+[View GitHub](https://github.com/THE-S-SAMI1317)
+
+---
+
+### 🏥 Healthcare Center
+> `JAVA SWING` `JSON`
+
+A comprehensive desktop application designed to digitize healthcare operations, streamlining patient management and blood bank inventory.
+
+[Case Study](#) | [GitHub](#)
+
+> ⚠️ **Work in Progress**  
+> Something exciting is brewing in the lab. Check back soon for new deployments.
+
+---
+
+## SYSTEM ONLINE
+
+### Initiate Connection
+
+> Ready to start a new project? Send a transmission below.
+
+#### 📡 SIGNAL STRENGTH
+**Direct Neural Link**  
+⚡ Fastest response within 2 hours.
+
+#### 📬 Contact Details
+- **Primary Mail**: [shahriar.sami@mail.com](mailto:shahriar.sami@mail.com)
+- **Base Location**: Dhaka, Bangladesh
+
+#### 🌐 Global Nodes
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](#)
+
+#### 🕐 SERVER TIME (DHAKA)
+`00:00:00` *(static representation - live clock requires JavaScript)*
+
+---
+
+### 📝 Contact Form
+
+> ⚠️ *Note: Interactive forms don't work in GitHub README. Use the email link above or visit my portfolio website for the full interactive form.*
+
+| Field | Options/Placeholder |
+|-------|-------------------|
+| **USER IDENTIFICATION** | Full Name |
+| **COMM CHANNEL** | Email Address |
+| **SUBJECT PARAMETER** | `New Project Proposal` \| `Hiring Collaboration` \| `Technical Consultation` \| `Just Saying Hi` |
+| **DATA STREAM** | Describe your vision... |
+
+[📤 TRANSMIT MESSAGE](mailto:shahriar.sami@mail.com?subject=New%20Project%20Proposal&body=Hello%20Shahriar%2C%0A%0A)
+
+---
+
+> © 2025 SHAHRIAR SAMI. ALL RIGHTS RESERVED
