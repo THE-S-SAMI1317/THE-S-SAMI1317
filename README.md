@@ -3,127 +3,35 @@
 # Shahriar Sami
 ### Future-Ready Developer | SAMI.DEV
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=CSE+Student+@+AIUB;Java+Specialist+%26+Problem+Solver;4.00+CGPA+Holder;Architecting+Efficient+Software;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=CSE+Student+@+AIUB;Java+Specialist+%26+Problem+Solver;4.00+CGPA+Holder;Building+Scalable+Software)](https://git.io/typing-svg)
 
 [![Open for Research Collab](https://img.shields.io/badge/_OPEN_FOR_RESEARCH_COLLAB-00FF88?style=for-the-badge&logo=github&logoColor=white)](#)
 [![B.SC CSE @ AIUB](https://img.shields.io/badge/B.SC_CSE_@_AIUB-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/📍_Dhaka_BD-EC4899?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
----
-
-### 👤 Profile
-
-![Avatar](https://avatars.githubusercontent.com/u/153972636?s=400&u=f3213e855e19a82ac8cd4d1310d4123f21382879&v=4)
-
-**🎓 Student ID:** 25-63748-3  
-**📍 Location:** Dhaka, Bangladesh  
-**💼 Experience Level:** Level 1  
-**⚡ Status:** <span style="color: #00FF88">● Online</span>
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THE-S-SAMI1317&show_icons=true&theme=gradient&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=gray&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THE-S-SAMI1317&show_icons=true&theme=gradient&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=gray)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-S-SAMI1317&layout=compact&theme=gradient&hide_border=true&title_color=8B5CF6&text_color=gray&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-S-SAMI1317&layout=compact&theme=gradient&hide_border=true&title_color=8B5CF6)
 
 ### 🔥 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THE-S-SAMI1317&theme=react-dark&hide_border=true&color=8B5CF6&line=EC4899&point=06B6D4&area=true)
 
----
-
-### 🎓 Academic Database
-
-#### 🎓 **B.Sc. in Computer Science Engineering** (2024 - Present)
-**American International University - Bangladesh (AIUB)**  
-![AIUB](https://img.shields.io/badge/CGPA-4.00/4.00-00FF88?style=for-the-badge&logo=google-scholar&logoColor=white)
-
-#### 🎓 **Higher Secondary Certificate (Science)** (2022 - 2024)
-**Jhenaidah KC College**  
-![GPA](https://img.shields.io/badge/GPA-5.00/5.00-00FF88?style=for-the-badge)
-
-#### 🎓 **Secondary School Certificate (Science)** (2021 - 2022)
-**Jhenaidha Govt. High School**  
-![GPA](https://img.shields.io/badge/GPA-5.00/5.00_(Golden)-FFD700?style=for-the-badge)
-
----
-
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 🎯 Interests & Hobbies
-
-![Travelling](https://img.shields.io/badge/✈️_Travelling-8B5CF6?style=for-the-badge&logo=airplane&logoColor=white)
-![Gaming](https://img.shields.io/badge/🎮_Gaming-EC4899?style=for-the-badge&logo=gamepad&logoColor=white)
-![Drawing](https://img.shields.io/badge/🎨_Drawing-06B6D4?style=for-the-badge&logo=artstation&logoColor=white)
-![Photography](https://img.shields.io/badge/📷_Photography-FF6B6B?style=for-the-badge&logo=camera&logoColor=white)
-
----
-
-### 💼 Featured Projects
-
-#### 🏥 **Healthcare Center**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-000000?style=flat-square&logo=java&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-
-A comprehensive desktop application designed to digitize healthcare operations, streamlining patient management and blood bank inventory.
-
-[![View Project](https://img.shields.io/badge/🔍_View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THE-S-SAMI1317)
-[![Case Study](https://img.shields.io/badge/📖_Case_Study-EC4899?style=for-the-badge&logo=google-docs&logoColor=white)](#)
-
----
-
-#### 🚀 **Work in Progress**
-![Status](https://img.shields.io/badge/⚡_Status-In_Development-FFD700?style=for-the-badge)
-
-Something exciting is brewing in the lab. Check back soon for new deployments!
-
----
-
-### 📡 Initiate Connection
-
-**Ready to start a new project? Let's collaborate!**
-
-[![Email](https://img.shields.io/badge/📧_shahriar.sami@mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.sami@mail.com)
-[![GitHub](https://img.shields.io/badge/💻_@THE-S-SAMI1317-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THE-S-SAMI1317)
-[![Response Time](https://img.shields.io/badge/⚡_Response_Time-Within_2_Hours-00FF88?style=for-the-badge)](#)
-
----
-
-### 🌐 Connect With Me
+### 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THE-S-SAMI1317)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-
----
-
-### 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=THE-S-SAMI1317&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
-
----
-
-<p align="center">
-  <em>
-    <b>Driven by Innovation, Powered by Code.</b><br>
-    <i>Building The Future, One Line At A Time</i>
-  </em>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.sami@mail.com)
 
 ---
 
