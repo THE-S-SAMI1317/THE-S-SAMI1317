@@ -1,25 +1,9 @@
 <div align="center">
 
-<!-- 🔹 GLITCH EFFECT FOR SAMI -->
-<table border="0" cellpadding="0" cellspacing="0" style="border: 2px solid #8B5CF6; border-radius: 8px; padding: 20px; margin: 20px auto;">
-  <tr>
-    <td align="center" style="position: relative; overflow: hidden;">
-      <h1 style="margin: 0; font-size: 72px; font-weight: bold; color: #fff; letter-spacing: 8px; animation: glitch 1s linear infinite; text-shadow: 2px 0 #8B5CF6, -2px 0 #EC4899;" align="center">
-        SAMI
-      </h1>
-      <style>
-        @keyframes glitch {
-          0% { text-shadow: 2px 0 #8B5CF6, -2px 0 #EC4899; transform: translate(0); }
-          20% { text-shadow: -2px 0 #8B5CF6, 2px 0 #EC4899; transform: translate(-2px, 2px); }
-          40% { text-shadow: 2px 0 #EC4899, -2px 0 #06B6D4; transform: translate(2px, -2px); }
-          60% { text-shadow: -2px 0 #EC4899, 2px 0 #06B6D4; transform: translate(-2px, 2px); }
-          80% { text-shadow: 2px 0 #06B6D4, -2px 0 #8B5CF6; transform: translate(2px, -2px); }
-          100% { text-shadow: -2px 0 #06B6D4, 2px 0 #8B5CF6; transform: translate(0); }
-        }
-      </style>
-    </td>
-  </tr>
-</table>
+<!-- 🔹 SIMPLE SAMI HEADER (No CSS) -->
+<h1 style="font-size: 72px; font-weight: bold; color: #fff; letter-spacing: 8px; text-shadow: 2px 2px #8B5CF6, -2px -2px #EC4899;">
+  SAMI
+</h1>
 
 <br>
 
