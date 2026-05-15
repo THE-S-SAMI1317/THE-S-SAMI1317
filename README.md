@@ -6,10 +6,19 @@
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=CSE+Student+@+AIUB;Java+Specialist+%26+Problem+Solver;4.00+CGPA+Holder;Architecting+Efficient+Software;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 [![Open for Research Collab](https://img.shields.io/badge/_OPEN_FOR_RESEARCH_COLLAB-00FF88?style=for-the-badge&logo=github&logoColor=white)](#)
-[![B.SC CSE @ AIUB](https://img.shields.io/badge/B.SC_CSE_@_AIUB-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+[![B.SC CSE AIUB](https://img.shields.io/badge/B.SC_CSE_AIUB-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/📍_Dhaka_BD-EC4899?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 ---
+
+### 👤 Profile
+
+![Avatar](https://avatars.githubusercontent.com/u/153972636?s=400&u=f3213e855e19a82ac8cd4d1310d4123f21382879&v=4)
+
+**🎓 Student ID:** 25-63748-3  
+**📍 Location:** Dhaka, Bangladesh  
+
+--- 
 
 ### 1. INTRODUCTION
 
@@ -19,23 +28,8 @@ I am a first-year Computer Science Engineering student at AIUB with a perfect 4.
 
 `Java Specialist` | `Problem Solver` | `Gamer`
 
-
-### 👤 Profile
-
-![Avatar](https://avatars.githubusercontent.com/u/153972636?s=400&u=f3213e855e19a82ac8cd4d1310d4123f21382879&v=4)
-
-**🎓 Student ID:** 25-63748-3  
-**📍 Location:** Dhaka, Bangladesh  
- 
-
-
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THE-S-SAMI1317&show_icons=true&theme=gradient&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=gray&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-S-SAMI1317&layout=compact&theme=gradient&hide_border=true&title_color=8B5CF6&text_color=gray&bg_color=0D1117)
 
 ### 🔥 Activity Graph
 
@@ -47,7 +41,6 @@ I am a first-year Computer Science Engineering student at AIUB with a perfect 4.
 
 #### 🎓 **B.Sc. in Computer Science Engineering** (2024 - Present)
 **American International University - Bangladesh (AIUB)**  
-[AIUB](https://www.aiub.edu/)  
 ![AIUB Logo](https://drive.google.com/thumbnail?id=13pGUL9xn3CG-Bi-xY06GB8cE4BLcdnpo&sz=w1000) 
 
 #### 🎓 **Higher Secondary Certificate (Science)** (2022 - 2024)
@@ -56,7 +49,6 @@ I am a first-year Computer Science Engineering student at AIUB with a perfect 4.
 
 #### 🎓 **Secondary School Certificate (Science)** (2021 - 2022)
 **Jhenaidha Govt. High School**  
-[JGHS](http://www.jhenidahghs.edu.bd/) 
 ![GPA](https://img.shields.io/badge/GPA-5.00/5.00_(Golden)-FFD700?style=for-the-badge)
 
 ---
@@ -97,15 +89,6 @@ Something exciting is brewing in the lab. Check back soon for new deployments!
 
 ---
 
-### 📡 Initiate Connection
-
-**Ready to start a new project? Let's collaborate!**
-
-[![Email](mailto:shahriarsami570@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_@THE-S-SAMI1317-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THE-S-SAMI1317)
-[![Response Time](https://img.shields.io/badge/⚡_Response_Time-Within_2_Hours-00FF88?style=for-the-badge)](#)
-
----
 
 ### 🌐 Connect With Me
 
